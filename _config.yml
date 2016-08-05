@@ -1,0 +1,14 @@
+layout_spectrum: 0.8952695881016552
+typography_spectrum: 0.6509605911560357
+color:
+  brandStrength: 0.9685583561658859
+  lightness: 0.16507636127062142
+  saturation: 0.47100409283302724
+  rhythmicContrast: 0.04996081721037626
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: twisted tomes
